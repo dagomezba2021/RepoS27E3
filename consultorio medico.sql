@@ -1,1 +1,0 @@
-SELECT * FROM consultorio_medico.cita;
